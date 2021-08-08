@@ -1,0 +1,43 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ffcccc;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Oleo Script', cursive;
+  text-shadow: 5px 0 #ffff;
+  font-size: 6rem;
+  color: #660000;
+}
+
+p {
+  font-size: 2rem;
+  color: #660000;
+  font-family: 'Arima Madurai', cursive;
+  font-weight: bold;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #660000;
+  text-align: center;
+  font-family: 'Arima Madurai', cursive;
+  font-weight: bolder;
+
+}
